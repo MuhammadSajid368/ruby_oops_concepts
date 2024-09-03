@@ -1,6 +1,6 @@
 # Banking System in Ruby
 
-This project is a simple banking system implemented in Ruby, demonstrating key Object-Oriented Programming (OOP) concepts such as Encapsulation, Inheritance, Polymorphism, Method Overriding, and Method Overloading-like behavior.
+This project is a simple banking system implemented in Ruby, demonstrating key Object-Oriented Programming (OOP) concepts such as Encapsulation, Inheritance, Polymorphism, Method Overriding, and Method Overloading-like behavior. 
 
 ## Overview
 
