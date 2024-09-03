@@ -50,4 +50,4 @@ The system consists of a base `Account` class and two derived classes: `SavingsA
 3. Run the Ruby script to see the banking operations in action.
 
 ```bash
-ruby banking_system.rb
+ruby OOPsConcepts.rb
